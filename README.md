@@ -1,6 +1,8 @@
 # todos
 The Todo List app is a simple and intuitive tool designed to help users organize their tasks efficiently. With its responsive and user-friendly interface, this app enables users to create, manage, and track their to-do items seamlessly, whether on a desktop or a mobile device. 
 
+Visit it: https://aarnav1729.github.io/todos/
+
 Features:
 
 Add and Manage Tasks: Users can easily add new tasks by entering them into the input field and pressing enter. The app dynamically updates the list of tasks, allowing users to manage their to-do items effectively.
