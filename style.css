@@ -70,3 +70,18 @@ small {
   margin-top: 3rem;
   text-align: center;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 6rem;
+  }
+
+  form {
+    width: 90%;
+  }
+
+  .input {
+    font-size: 1.5rem;
+    padding: 0.8rem 1.6rem;
+  }
+}
